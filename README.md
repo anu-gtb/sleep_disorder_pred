@@ -1,8 +1,3 @@
-ci_mlops
-==============================
-
-mlops-project
-
 Project Organization
 ------------
 
